@@ -113,7 +113,7 @@ Bag           acc=0.986
 
 Ankle boot    acc=0.962
 
-Most confused pairs (top 10 off-diagonal):
+### Most confused pairs (top 10 off-diagonal):
 T-shirt/top -> Shirt : 156
 
 Pullover -> Coat : 94
