@@ -94,26 +94,44 @@ pip install -r requirements.txt
 
 ### Per-class Analysis
 T-shirt/top   acc=0.811
+
 Trouser       acc=0.983
+
 Pullover      acc=0.827
+
 Dress         acc=0.923
+
 Coat          acc=0.918
+
 Sandal        acc=0.984
+
 Shirt         acc=0.809
+
 Sneaker       acc=0.981
+
 Bag           acc=0.986
+
 Ankle boot    acc=0.962
 
 Most confused pairs (top 10 off-diagonal):
 T-shirt/top -> Shirt : 156
+
 Pullover -> Coat : 94
+
 Shirt -> Coat : 71
+
 Pullover -> Shirt : 60
+
 Shirt -> T-shirt/top : 49
+
 Shirt -> Pullover : 44
+
 Coat -> Shirt : 44
+
 Dress -> Shirt : 38
+
 Ankle boot -> Sneaker : 33
+
 Dress -> Coat : 27
 
 ### Confidence Threshold
